@@ -1,7 +1,7 @@
 # Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
+Created in Angular 10
 
 ## Development server
 
-Template for initial project in angular
+Template for news projects using an architecture with lazy loading, a shared module, core module and pages module. 
